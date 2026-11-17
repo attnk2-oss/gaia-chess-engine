@@ -1,0 +1,9 @@
+out/
+__pycache__/
+*.pyc
+*.log
+.DS_Store
+# never commit a keypair or an API key
+*.keypair.json
+wallet*.json
+.env
